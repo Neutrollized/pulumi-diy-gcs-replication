@@ -1,0 +1,3 @@
+name: diy-gcs-with-replication
+runtime: nodejs
+description: Creates 2 GCS buckets with Cloud Function to perform DIY replication

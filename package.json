@@ -1,0 +1,10 @@
+{
+    "name": "diy-gcs-with-replication",
+    "devDependencies": {
+        "@types/node": "^14"
+    },
+    "dependencies": {
+        "@pulumi/pulumi": "^3.0.0",
+        "@pulumi/google-native": "^0.9.0"
+    }
+}
