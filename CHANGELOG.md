@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Apache v2 license
 ### Updated
-- `pulumi/google-native` from `^0.9.0` to `0.27.0`
+- `pulumi/google-native` from `^0.9.0` to `^0.27.0`
 
 ## [0.1.0] - 2021-11-25
 ### Added
