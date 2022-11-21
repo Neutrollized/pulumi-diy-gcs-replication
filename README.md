@@ -72,7 +72,7 @@ Duration: 2m10s
 
 
 ## Clean-up
-- ensure buckets used are empty
+- ensure the two GCP buckets used are empty
 ```
 pulumi destroy
 ```
