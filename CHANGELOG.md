@@ -7,7 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.2.0] - 2022-11-21
 ### Updated
 - Python package, `google-cloud-storage` from `1.42.3` to `2.6.0`, removing Python 2 support
-- `package-lock.json`
+### Fixed
+- updated `package-lock.json`
 
 ## [0.1.1] - 2022-11-20
 ### Added
