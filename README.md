@@ -28,7 +28,7 @@ pulumi config set google-native:project [PROJECT_ID]
 pulumi config set google-native:region northamerica-northeast1 (or whatever your location is)
 ```
 
-## Example
+### Example
 Do `pulumi up`:
 ```
 Previewing update (dev):
@@ -69,6 +69,14 @@ Resources:
 
 Duration: 2m10s
 ```
+
+
+## Clean-up
+- ensure buckets used are empty
+```
+pulumi destroy
+```
+
 
 ## TODO
 - currently the google-native IAM API doesn't have all the functionality yet
